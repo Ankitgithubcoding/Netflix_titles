@@ -16,9 +16,13 @@ This Power BI project analyzes Netflix's content library, providing insights int
 ✅ **Global Distribution:** Content is widely distributed across various countries.  
 
 ## 📊 Dashboard Visuals  
-![Netflix Dashboard](Country Wise.png)  
+### 📈 Overall Data  
+![Netflix Dashboard](All%20Data.png)  
 
-### 🛠 Technologies Used  
+### 🌍 Country-Wise Data  
+![Country Wise Netflix Data](Country%20Wise.png)  
+
+## 🛠 Technologies Used  
 - **Power BI** – Data visualization & reporting  
 - **Power Query** – Data cleaning and transformation  
 
